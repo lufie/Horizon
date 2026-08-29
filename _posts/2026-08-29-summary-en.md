@@ -5,57 +5,57 @@ date: 2026-08-29
 lang: en
 ---
 
-> From 30 items, 4 important content pieces were selected
+> From 25 items, 4 important content pieces were selected
 
 ---
 
-1. [Htmx 4.0](#item-1) ⭐️ 9.0/10
-2. [triton-lang/triton released v3.8.0](#item-2) ⭐️ 8.0/10
-3. [U.S. sanctions against the A/I Collective](#item-3) ⭐️ 8.0/10
-4. [Just the rumour of a bug is enough to find an exploit these days](#item-4) ⭐️ 8.0/10
+1. [Tencent Releases and Open-Sources Tencent Hy4 Preview](#item-1) ⭐️ 8.0/10
+2. [Samsung's Processing-in-Memory (PIM)](#item-2) ⭐️ 8.0/10
+3. [GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)](#item-3) ⭐️ 8.0/10
+4. [You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm (R)](#item-4) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) ⭐️ 9.0/10
+## [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) ⭐️ 8.0/10
 
-Htmx has announced the release of version 4.0.0, marking a major milestone for the hypermedia-driven frontend library.
+Tencent has released and open-sourced the preview of its Hy4 large language model, featuring recursive self-improvement capabilities and gaining rapid traction in the developer community.
 
-hackernews · rmsaksida · Aug 28, 13:28 · [Discussion](https://news.ycombinator.com/item?id=49478178)
+hackernews · shenli3514 · Aug 29, 19:33 · [Discussion](https://news.ycombinator.com/item?id=49492632)
 
-**Tags**: `#htmx`, `#web development`, `#frontend`, `#software release`, `#hypermedia`
+**Tags**: `#AI`, `#LLM`, `#Open Source`, `#Machine Learning`, `#Tencent`
 
 ---
 
 <a id="item-2"></a>
-## [triton-lang/triton released v3.8.0](https://github.com/triton-lang/triton/releases/tag/v3.8.0) ⭐️ 8.0/10
+## [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing) ⭐️ 8.0/10
 
-Triton v3.8.0 has been released, bringing public aggregate types, compiler optimizations, and enhanced backend support for NVIDIA and AMD GPUs.
+An in-depth look at Samsung's Processing-in-Memory (PIM) technology presented at Hot Chips, exploring its architectural design, trade-offs, and viability for AI and specialized workloads.
 
-github · warrendeng · Aug 28, 18:25
+hackernews · ingve · Aug 29, 06:06 · [Discussion](https://news.ycombinator.com/item?id=49487341)
 
-**Tags**: `#Triton`, `#GPU Programming`, `#Compilers`, `#Machine Learning`, `#Open Source`
+**Tags**: `#hardware`, `#computer-architecture`, `#semiconductors`, `#processing-in-memory`, `#ai-hardware`
 
 ---
 
 <a id="item-3"></a>
-## [U.S. sanctions against the A/I Collective](https://www.inventati.org/) ⭐️ 8.0/10
+## [GrapheneOS project: pixel 11 no longer supports hardware memory tagging (MTE)](https://bsky.app/profile/grapheneos.org/post/3mua32q4ds22e) ⭐️ 8.0/10
 
-The U.S. government has sanctioned the Italian activist hosting provider Autistici/Inventati (A/I Collective), raising major concerns about the targeting of privacy-focused infrastructure providers.
+The GrapheneOS project has revealed that the Google Pixel 11 series will no longer support hardware Memory Tagging Extension (MTE), a key security feature for mitigating memory corruption vulnerabilities.
 
-hackernews · exiguus · Aug 28, 12:58 · [Discussion](https://news.ycombinator.com/item?id=49477854)
+hackernews · 400thecat · Aug 29, 15:26 · [Discussion](https://news.ycombinator.com/item?id=49490702)
 
-**Tags**: `#Internet Infrastructure`, `#Privacy`, `#Government Sanctions`, `#Policy`, `#Security`
+**Tags**: `#mobile security`, `#hardware security`, `#grapheneos`, `#android`, `#arm`
 
 ---
 
 <a id="item-4"></a>
-## [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit) ⭐️ 8.0/10
+## [You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm (R)](https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/) ⭐️ 8.0/10
 
-The post explores how modern tools and LLMs allow security researchers and bad actors to rapidly develop exploits based on mere rumors, patches, or commit messages, significantly increasing the pressure on open-source maintainers.
+The author demonstrates that Statistical Process Control, a 100-year-old algorithm, can outperform state-of-the-art time series anomaly detection methods on popular benchmarks, highlighting major flaws in current evaluation standards.
 
-hackernews · avsm · Aug 28, 15:58 · [Discussion](https://news.ycombinator.com/item?id=49480466)
+reddit · r/MachineLearning · /u/eamonnkeogh · Aug 29, 20:16
 
-**Tags**: `#cybersecurity`, `#open-source`, `#artificial-intelligence`, `#software-engineering`
+**Tags**: `#Machine Learning`, `#Time Series Analysis`, `#Anomaly Detection`, `#Research Methodology`, `#Statistical Process Control`
 
 ---
