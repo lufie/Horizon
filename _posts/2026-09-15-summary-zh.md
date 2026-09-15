@@ -5,57 +5,69 @@ date: 2026-09-15
 lang: zh
 ---
 
-> 从 41 条内容中筛选出 4 条重要资讯。
+> 从 32 条内容中筛选出 5 条重要资讯。
 
 ---
 
-1. [iOS 27, iPadOS 27, and macOS 27](#item-1) ⭐️ 8.0/10
-2. [OpenAI bots knew about the RubyGems caching vulnerability](#item-2) ⭐️ 8.0/10
-3. [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](#item-3) ⭐️ 8.0/10
-4. [Steam Frame starts at $1059](#item-4) ⭐️ 8.0/10
+1. [Introducing System One Models and Jev](#item-1) ⭐️ 8.0/10
+2. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](#item-2) ⭐️ 8.0/10
+3. [An Update on Wayback Machine Access](#item-3) ⭐️ 8.0/10
+4. [Gemini 3.8 Live and 3.8 Live Extended Thinking](#item-4) ⭐️ 8.0/10
+5. [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](#item-5) ⭐️ 8.0/10
 
 ---
 
 <a id="item-1"></a>
-## [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) ⭐️ 8.0/10
+## [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) ⭐️ 8.0/10
 
-Apple has released major updates for its software platforms, including iOS 27, iPadOS 27, and macOS 27, focusing on quality refinements, Siri updates, and new developer tools.
+Typesafe.ai introduces Jev, a 'System One' model designed for fast, typed, and structured inference instead of general-purpose text generation.
 
-hackernews · throw0101d · 9月14日 17:50 · [社区讨论](https://news.ycombinator.com/item?id=49701004)
+hackernews · albelfio · 9月15日 19:25 · [社区讨论](https://news.ycombinator.com/item?id=49717558)
 
-**标签**: `#Apple`, `#iOS`, `#macOS`, `#Operating Systems`, `#Software Release`
+**标签**: `#Machine Learning`, `#AI Inference`, `#Structured Output`, `#System 1 Thinking`
 
 ---
 
 <a id="item-2"></a>
-## [OpenAI bots knew about the RubyGems caching vulnerability](https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/) ⭐️ 8.0/10
+## [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) ⭐️ 8.0/10
 
-The article discusses an incident where OpenAI bots reportedly identified and exploited a caching vulnerability in RubyGems, raising critical questions about AI agent safety and cybersecurity liability.
+An open-source e-ink frame project that listens to bird sounds, identifies the species using BirdNET, and displays them as vintage 1800s-style illustrations.
 
-hackernews · gregnavis · 9月14日 12:40 · [社区讨论](https://news.ycombinator.com/item?id=49695876)
+hackernews · arnemunthekaas · 9月15日 12:31 · [社区讨论](https://news.ycombinator.com/item?id=49711544)
 
-**标签**: `#Cybersecurity`, `#AI Agents`, `#OpenAI`, `#RubyGems`, `#Software Security`
+**标签**: `#hardware`, `#e-ink`, `#machine-learning`, `#diy`, `#creative-computing`
 
 ---
 
 <a id="item-3"></a>
-## [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html) ⭐️ 8.0/10
+## [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) ⭐️ 8.0/10
 
-A Ninth Circuit Court of Appeals case between Amazon and Perplexity underscores the escalating legal and economic battles over AI agents accessing e-commerce platforms.
+The Internet Archive has implemented new traffic protections for the Wayback Machine to mitigate high-volume automated scraping from bots attempting to bypass original site blocks.
 
-hackernews · neom · 9月14日 21:05 · [社区讨论](https://news.ycombinator.com/item?id=49704008)
+hackernews · ChrisArchitect · 9月15日 17:52 · [社区讨论](https://news.ycombinator.com/item?id=49716176)
 
-**标签**: `#AI Law`, `#Web Scraping`, `#AI Agents`, `#E-commerce`, `#Tech Policy`
+**标签**: `#Internet Archive`, `#Web Scraping`, `#Artificial Intelligence`, `#Web Infrastructure`
 
 ---
 
 <a id="item-4"></a>
-## [Steam Frame starts at $1059](https://store.steampowered.com/hardware/steamframe) ⭐️ 8.0/10
+## [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) ⭐️ 8.0/10
 
-Valve has announced the Steam Frame VR headset starting at $1059, sparking deep discussions on VR hardware design, wireless streaming latency, and open-platform ecosystems.
+Google has launched Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking, bringing advanced real-time voice interaction and reasoning capabilities to its AI model lineup.
 
-hackernews · bsimpson · 9月14日 17:27 · [社区讨论](https://news.ycombinator.com/item?id=49700661)
+hackernews · leumon · 9月15日 17:38 · [社区讨论](https://news.ycombinator.com/item?id=49715947)
 
-**标签**: `#Virtual Reality`, `#Hardware`, `#Valve`, `#Gaming`
+**标签**: `#Artificial Intelligence`, `#LLMs`, `#Google Gemini`, `#Voice Assistants`, `#Machine Learning`
+
+---
+
+<a id="item-5"></a>
+## [Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree](https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums) ⭐️ 8.0/10
+
+This article argues against the common belief that datacenter moratoriums are crippling US infrastructure expansion, demonstrating that only a small fraction of planned capacity is actually being delayed.
+
+rss · Semianalysis · 9月15日 20:54
+
+**标签**: `#Datacenters`, `#Infrastructure`, `#Energy`, `#Cloud Computing`, `#SemiAnalysis`
 
 ---
